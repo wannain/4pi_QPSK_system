@@ -18,7 +18,7 @@ This instruction is this communications system experiment by text demonstration.
 
 The total project is code by Matlab, I only use `slprj` to generarte cource control in different service time and arrive time. So if you want to run this project, you have to make sure you have placed `slprj` package into right location. 
 
-And then you just run the `QPSK_transimiter.m` to transimit the `test.txt`, and then run the `QPSK_receiver.m` to receive the signal from QPSK system , and print the result into `test_out.txt` .
+And then you just run the `QPSK_system.m` to transimit the `test_input.txt`, and then wait the `QPSK_system.m` to receive the signal from QPSK system , and print the result into `test_out.txt` .
 
 ![image-20220902161633323](https://raw.githubusercontent.com/wannain/image/main/2022/09/upgit_20220902_1662106593.png)
 
